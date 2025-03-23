@@ -1,2 +1,2 @@
 # ADMDMT
-All-Day Multi-Camera Muti-Target Tracking
+All-Day Multi-Camera Multi-Target Tracking
