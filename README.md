@@ -34,8 +34,8 @@ Since our work is based on the unpublished [GMT](https://arxiv.org/pdf/2407.0100
 ## M3Track dataset
 
 ### Introduction
-![Example](img/dataset.jpg)
-![Compare](img/dataset_tj2.jpg)
+![Example](dataset.jpg)
+![Compare](dataset_tj2.jpg)
 M3Track is the first multi-camera multi-target tracking dataset that includes the infrared modality. Compared with existing datasets, M3Track is larger in scale and contains data captured under different weather conditions, at various times of the day, with varying target densities, and across diverse scenes, offering rich diversity.
 
 
