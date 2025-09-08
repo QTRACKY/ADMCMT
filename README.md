@@ -8,7 +8,7 @@ This repository is an official implementation of [AMCMT](https://openaccess.thec
 ## Abstract
 
 
-![Overview](img/model.png)
+![Overview](model.png)
 
  In this paper, we propose ADMCMT, which is the first MCMT tracking model for low-light environments. Specifically, we propose an All-Day Mamba Fusion (ADMF) module to adaptively fuse information from different modalities. Within ADMF, the Lighting Guidance Model (LGM) extracts lighting relevant information to guide the fusion process. Furthermore, the Nearby Target Collection (NTC) strategy is designed to enhance tracking accuracy by leveraging information derived from surrounding objects of target. Experiments conducted on M3Track demonstrate that ADMCMT exhibits strong generalization across different lighting conditions. We also constructed the first Multi-modality (RGBT) Multi-camera Multi-target tracking dataset named M3Track. In addition to incorporating multiple modalities, it also significantly surpasses existing multi-camera multi-object datasets in both scale and diversity.
 
